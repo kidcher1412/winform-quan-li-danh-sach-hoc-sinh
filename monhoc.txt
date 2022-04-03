@@ -1,0 +1,5 @@
+MH01,Toan,30
+MH02,Dia,40
+MH03,Hoa,50
+MH04,Su,45
+MH05,Anh,35
